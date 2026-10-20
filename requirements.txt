@@ -1,0 +1,9 @@
+# Direct data, plotting, and machine-learning dependencies observed in the
+# configured project environment. Python version recorded by the notebook: 3.14.7.
+numpy==2.5.4
+pandas==3.0.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+
+# Needed to run this notebook with a Python kernel in VS Code/Jupyter.
+ipykernel==7.4.0
